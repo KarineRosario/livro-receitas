@@ -11,3 +11,5 @@
 - ######  Strogonoff de frango.
 
 - ###### Pavê.
+
+- ###### Torta de Maçã.
